@@ -1,0 +1,14 @@
+p.asteroid, div.big {color: blue;}
+#b325, .b326 {border: 1px solid green; width: 250px;}
+#b325, .b326, .b329 {font-weight: bold;}
+p.big {background-color: yellow; width: 250px;}
+.boxes {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+p.boxes:hover {background-color: red;}
+button:hover {background-color: red;}
